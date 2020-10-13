@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T02:20:52.515Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="2ST37CeFfX798UtsoVYg" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T02:22:13.622Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="bxJHJ3O20OiKEx-3rWhb" version="13.7.5" type="github">
   <diagram id="7nSo9XSUbkOztDkDhjZS" name="第 1 页">
     <mxGraphModel dx="1525" dy="1296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
         <mxCell id="9olRrJjh9QZigTU5JMxW-91" value="&lt;span style=&quot;font-size: 18px&quot;&gt;I&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="841" y="887" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9olRrJjh9QZigTU5JMxW-92" value="I 购买399产品&lt;br&gt;直推 E 获得 100&lt;br&gt;团队 B 获得 200&lt;br&gt;团队 A 也能获得99？" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;align=left;fontSize=20;spacingLeft=20;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="9olRrJjh9QZigTU5JMxW-92" value="I 购买399产品&lt;br&gt;直推 E 获得 100&lt;br&gt;团队 B 获得 200&lt;br&gt;团队 A 获得99" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;align=left;fontSize=20;spacingLeft=20;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="925" y="901" width="255" height="119" as="geometry" />
         </mxCell>
         <mxCell id="9olRrJjh9QZigTU5JMxW-93" value="7." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
