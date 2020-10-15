@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T07:05:42.208Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="pRj9ximNUqK0y2c4_SUN" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T07:11:15.888Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="K2-17TsAgGAhZ0l_VQat" version="13.7.5" type="github">
   <diagram id="7nSo9XSUbkOztDkDhjZS" name="第 1 页">
-    <mxGraphModel dx="2249" dy="1345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,7 +273,7 @@
         <mxCell id="4uzBJFD4xRu4iT5XEhBd-38" value="&lt;span style=&quot;font-size: 18px&quot;&gt;D&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="571" y="66" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4uzBJFD4xRu4iT5XEhBd-40" value="B 购买1万产品&lt;br&gt;直推 A 获得 300" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;align=left;fontSize=20;spacingLeft=20;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="4uzBJFD4xRu4iT5XEhBd-40" value="B 购买399&lt;br&gt;直推 A 获得 300" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;align=left;fontSize=20;spacingLeft=20;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="340" y="-190" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4uzBJFD4xRu4iT5XEhBd-41" value="B 购买1万产品&lt;br&gt;团队 A 获得 200&lt;br&gt;直推 B 获得 100" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;align=left;fontSize=20;spacingLeft=20;strokeColor=#d79b00;" vertex="1" parent="1">
